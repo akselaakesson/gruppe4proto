@@ -4,7 +4,7 @@
 ---
 
 ## The Team
-Dette projectet har vært et sammarbeid av:
+Dette prosjektet er et sammarbeid av:
 * **Signe Hemmersam**
 * **Aksel Åkesson**
 * **Helle Husby**
